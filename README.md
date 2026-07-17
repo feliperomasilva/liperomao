@@ -1,4 +1,6 @@
-# About me 
+# PROJETOS GERAIS
+
+Projetos que eu fiz ao longo da minha carreira como programador
 
 <!--
 **liperomao/liperomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

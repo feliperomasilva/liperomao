@@ -121,8 +121,6 @@ Cada projeto listado abaixo possui seu próprio repositório (ou pasta dedicada)
 
 ## ⭐ Projetos em Destaque / Featured Projects
 
-> Adicione aqui os projetos que você quer destacar. Sugestão de formato de card abaixo — duplique para cada novo projeto.
-
 <table>
 <tr>
 <td width="50%">
@@ -133,7 +131,7 @@ Cada projeto listado abaixo possui seu próprio repositório (ou pasta dedicada)
 **Tecnologias:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-🔗 github.com/feliperomasilva/projetoagro-tec(#) • https://feliperomasilva.github.io/projeto-agrotec/(#)
+🔗 .[github.com/feliperomasilva/projetoagro-tec(#)]. •[https://feliperomasilva.github.io/projeto-agrotec/]. (#)
 
 </td>
 
@@ -192,9 +190,9 @@ This project is licensed under the **MIT License**. See the [`LICENSE`](./LICENS
 <div align="center">
 
 📧 **E-mail:** feliperomasilva@gmail.com
-💼 **LinkedIn:** [Adicione seu LinkedIn aqui](#)
-🐙 **GitHub:** [github.com/feliperomasilva](#)
-🌐 **Portfólio:** [em manutenção...](#)
+💼 **LinkedIn:** [linkedin.com/in/feliperomao-dev]. (#)
+🐙 **GitHub:** github.com/feliperomasilva (#)
+🌐 **Portfólio:** em manutenção...(#)
 
 </div>
 

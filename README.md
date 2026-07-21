@@ -7,8 +7,8 @@
 
 <br>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/felipetomadilva/projeto-agrotec?style=flat-square&color=blue)
-![GitHub repo size](https://img.shields.io/github/repo-size/SEU_USUARIO/SEU_REPOSITORIO?style=flat-square&color=success)
+![GitHub last commit](https://img.shields.io/github/last-commit/feliperomasilva/projeto-agrotec?style=flat-square&color=blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/feliperomasilva/projeto-agrotec?style=flat-square&color=success)
 ![GitHub stars](https://img.shields.io/github/stars/feliperomasilva/projeto-agrotec?style=flat-square&color=yellow)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 ![Status](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-orange?style=flat-square)
@@ -133,7 +133,7 @@ Cada projeto listado abaixo possui seu próprio repositório (ou pasta dedicada)
 **Tecnologias:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-🔗 [github.com/feliperomasilva/projeto-agro-tec](#) • [Demo](#)
+🔗 [github.com/feliperomasilva/projetoagro-tec](#) • [teste](#)
 
 </td>
 

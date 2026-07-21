@@ -7,9 +7,9 @@
 
 <br>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_REPOSITORIO?style=flat-square&color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/felipetomadilva/projeto-agrotec?style=flat-square&color=blue)
 ![GitHub repo size](https://img.shields.io/github/repo-size/SEU_USUARIO/SEU_REPOSITORIO?style=flat-square&color=success)
-![GitHub stars](https://img.shields.io/github/stars/SEU_USUARIO/SEU_REPOSITORIO?style=flat-square&color=yellow)
+![GitHub stars](https://img.shields.io/github/stars/feliperomasilva/projeto-agrotec?style=flat-square&color=yellow)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 ![Status](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-orange?style=flat-square)
 
@@ -25,7 +25,7 @@
 
 ## 📌 Sobre este repositório
 
-Este repositório reúne projetos desenvolvidos ao longo da minha carreira como programador — desde experimentos de aprendizado até aplicações mais estruturadas. A ideia é centralizar meu trabalho em um só lugar, com organização clara e documentação consistente, para que qualquer pessoa (recrutador, colega de time ou outro desenvolvedor) consiga entender rapidamente o que cada projeto faz e como ele foi construído.
+Este repositório reúne projetos desenvolvidos ao longo da minha carreira como programador — desde experimentos de aprendizado até aplicações mais estruturadas. A ideia é centralizar meu trabalho em um só lugar, com organização clara e documentação consistente, para que qualquer pessoa consiga entender rapidamente o que cada projeto faz e como ele foi construído.
 
 Atualmente estou cursando o técnico em **Análise e Desenvolvimento de Sistemas (ADS)** e me preparando para ingressar em uma faculdade voltada à **Cibersegurança**, com foco em me aprofundar em **pentest**. Este espaço também vai acompanhar essa transição — dos projetos de desenvolvimento geral até estudos e labs voltados à segurança ofensiva.
 
@@ -110,8 +110,6 @@ Cada projeto listado abaixo possui seu próprio repositório (ou pasta dedicada)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 <!-- Placeholder: adicione badges de outras stacks conforme os projetos forem sendo adicionados -->
 <!-- Exemplos: React, Node.js, SQL, Kali Linux, Burp Suite, Wireshark, Nmap -->
 
@@ -129,24 +127,16 @@ Cada projeto listado abaixo possui seu próprio repositório (ou pasta dedicada)
 <tr>
 <td width="50%">
 
-### 🚀 [Nome do Projeto 1](#)
-📝 *Adicione uma breve descrição do que o projeto faz.*
+### 🚀 [Projeto AgroTec](#)
+📝 *Desenvolvi um site voltado para a indústria do agronegócio, com o objetivo de informar sobre o uso e riscos de agrotóxicos no meio ambiente.*
 
-**Tecnologias:** `placeholder` `placeholder`
-
-🔗 [Repositório](#) • [Demo](#)
-
-</td>
-<td width="50%">
-
-### 🚀 [Nome do Projeto 2](#)
-📝 *Adicione uma breve descrição do que o projeto faz.*
-
-**Tecnologias:** `placeholder` `placeholder`
+**Tecnologias:** `![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)` `![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)`
+`![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)`
 
 🔗 [Repositório](#) • [Demo](#)
 
 </td>
+
 </tr>
 </table>
 
@@ -201,10 +191,10 @@ This project is licensed under the **MIT License**. See the [`LICENSE`](./LICENS
 
 <div align="center">
 
-📧 **E-mail:** adicione-seu-email@aqui.com
+📧 **E-mail:** feliperomasilva@gmail.com
 💼 **LinkedIn:** [Adicione seu LinkedIn aqui](#)
-🐙 **GitHub:** [Adicione seu usuário do GitHub aqui](#)
-🌐 **Portfólio:** [Adicione o link do seu portfólio aqui](#)
+🐙 **GitHub:** [github.com/feliperomasilva](#)
+🌐 **Portfólio:** [em manutenção...](#)
 
 </div>
 
@@ -213,10 +203,6 @@ This project is licensed under the **MIT License**. See the [`LICENSE`](./LICENS
 ---
 
 <div align="center">
-
-### 💬 "Adicione aqui uma frase, lema pessoal ou objetivo de carreira"
-
-**Feito com 💙 e muito café por [Seu Nome Aqui]**
 
 ⭐ *Se este repositório te ajudou de alguma forma, considere deixar uma estrela!*
 
